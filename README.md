@@ -1,3 +1,7 @@
-Accessing hdf5 files
-Accessing 2D arrays
-Plotting 2D array
+Jupyter notebook
+
+1. Accessing hdf5 files
+
+2. Accessing 2D arrays
+
+3. Plotting 2D array
